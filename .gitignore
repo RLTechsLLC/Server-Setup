@@ -1,0 +1,20 @@
+# Master  GitHub Ignore File
+# Ignore everything...
+*
+
+# Except the (dot) Folders...
+!/.github/
+!/.vscode/
+
+# Except the (dot) Files...
+!/.gitignore
+
+# Except these project folders...
+
+# Except these project files...
+!/LICENSE.md
+!/README.md
+
+#Except these other misc files...
+
+# EOF
