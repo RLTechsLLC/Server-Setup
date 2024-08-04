@@ -10,6 +10,7 @@
 !/.gitignore
 
 # Except these project folders...
+!/docs/
 
 # Except these project files...
 !/LICENSE.md
