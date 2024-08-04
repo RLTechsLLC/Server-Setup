@@ -1,6 +1,6 @@
 # Master  GitHub Ignore File
 # Ignore everything...
-*
+/*
 
 # Except the (dot) Folders...
 !/.github/
