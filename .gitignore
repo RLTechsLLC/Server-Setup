@@ -7,6 +7,8 @@
 !/.vscode/
 
 # Except the (dot) Files...
+!/.cSpell-UbScripts
+!/.editorconfig
 !/.gitignore
 
 # Except these project folders...
@@ -17,5 +19,6 @@
 !/README.md
 
 #Except these other misc files...
+!/cspell.yaml
 
 # EOF
