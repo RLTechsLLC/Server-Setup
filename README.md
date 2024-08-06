@@ -1,4 +1,4 @@
-# Ubuntu 24.04 LTS Basic Setup Scripts
+# Ubuntu LTS Misc Setup Scripts
 
  This script is meant to help setup a main sudo user and provide some basic initial security hardening for a fresh Ubuntu 24.04 LTS server. The script can be used on a in-house bare metal server, a virtual machine, a VPS Cloud Server, or a Bare Metal Cloud Server.
 
