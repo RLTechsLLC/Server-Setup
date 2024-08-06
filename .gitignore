@@ -1,20 +1,24 @@
 # Master  GitHub Ignore File
 # Ignore everything...
-*
+/*
 
 # Except the (dot) Folders...
 !/.github/
 !/.vscode/
 
 # Except the (dot) Files...
+!/.cSpell-UbScripts
+!/.editorconfig
 !/.gitignore
 
 # Except these project folders...
+!/docs/
 
 # Except these project files...
 !/LICENSE.md
 !/README.md
 
 #Except these other misc files...
+!/cspell.yaml
 
 # EOF

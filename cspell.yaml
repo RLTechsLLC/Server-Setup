@@ -1,0 +1,15 @@
+$schema: https://raw.githubusercontent.com/streetsidesoftware/cspell/main/cspell.schema.json
+version: '0.2'
+dictionaryDefinitions:
+  - name: Ubuntu Scripts Dictionary
+    path: './.cSpell-WP42'
+    addWords: true
+dictionaries:
+  - Ubuntu Scriptw Dictionary
+ignorePaths:
+  - 'node_modules'
+  - '/.cSpell-UbScripts'
+languageSettings:
+  - languageID:
+    - markdown
+    caseSensitive: true
